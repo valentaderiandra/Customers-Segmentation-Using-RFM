@@ -1,6 +1,5 @@
 # Customers-Segmentation-Using-RFM
-Customers Segmentation Using RFM analysis (Recency, Frequency and Monetary) with Data Orders
-Data orders is a company that sells good that can be ordered by customers in large quantities at once
+Customers Segmentation Using RFM analysis (Recency, Frequency and Monetary) with Data Orders.Data orders is a company that sells good that can be ordered by customers in large quantities at once
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
